@@ -1,0 +1,3 @@
+﻿  Extantion Project3.cpp
+C:\Users\ahmd\source\repos\Extantion Project3\Extantion Project3.cpp(29,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Extantion Project3.vcxproj -> C:\Users\ahmd\source\repos\Extantion Project3\x64\Debug\Extantion Project3.exe
